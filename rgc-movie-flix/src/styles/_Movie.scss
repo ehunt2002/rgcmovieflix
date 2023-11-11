@@ -1,0 +1,38 @@
+.moviebox{
+    border-radius: 5px;
+    justify-content: center;
+    background-color: black;
+    margin: 2rem;
+    align-items: center;
+
+    &:hover{
+        cursor: pointer;
+        opacity: .5;
+    }
+
+    .titlebox{
+        display: flex;
+        justify-content: space-between;
+        background-color: black;
+        padding: .5rem;
+        
+        h3{
+           
+            color:burlywood;
+            font-weight: 800;    
+            font-size: medium;
+            width: 10rem;
+        }
+    
+        h5{
+            border-radius: 20px;
+            font-weight: 900;
+            background-color: black;
+            color: beige;
+            width: 12%;
+            padding: 3px;
+            align-content: center;
+        }
+    }
+    
+}
