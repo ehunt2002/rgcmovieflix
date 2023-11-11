@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rgcmovieflix/static/css/main.a072d0b1.css",
+    "main.js": "/rgcmovieflix/static/js/main.3aa88dfb.js",
+    "index.html": "/rgcmovieflix/index.html",
+    "main.a072d0b1.css.map": "/rgcmovieflix/static/css/main.a072d0b1.css.map",
+    "main.3aa88dfb.js.map": "/rgcmovieflix/static/js/main.3aa88dfb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a072d0b1.css",
+    "static/js/main.3aa88dfb.js"
+  ]
+}
