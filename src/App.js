@@ -5,7 +5,6 @@ import Home from '../src/pages/Home';
 import  '../src/styles/GlobalStyles.scss'
 import Movies from './components/Movies';
 
-
 function App() {
   
   const dispatch = useDispatch();
@@ -22,10 +21,10 @@ function App() {
 
   return (
     <div className="container">
-      <h2 onClick={() => refreshMovies()}>RGC Movie Search</h2>
+      <h2 onClick={() => refreshMovies()}>RGC Movie Search</h2>      
       <Home></Home>
       <Movies></Movies>
-    </div>
+      </div>
   );
 }
 
